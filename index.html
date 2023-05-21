@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">    
+    <!-- Font Awesome -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+    <!-- main css -->
+    <link rel="stylesheet" href="./styles/styles.css">
+    <title>Nigeria Random Fact Generator</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="header__nav container">
+            <a href="#" class="header__logo nav-link active" data-target="entertainment">Random Nigeria Facts</a>
+
+            <a href="#" id="btnHamburger" class="header__toggle hide-for-desktop">
+                <span></span>
+                <span></span>
+                <span></span>
+            </a>
+
+            <div class="header__links hide-for-mobile">
+                <a href="#" class="nav-link" data-target="entertainment">Entertainment</a>
+                <a href="#" class="nav-link" data-target="politics">Politics</a>
+                <a href="#" class="nav-link" data-target="sport">Sport</a>
+                <a href="#" class="nav-link" data-target="history">History</a>
+            </div>
+        </nav>
+
+        <div class="header__menu has-slide">
+            <a href="#" class="nav-link" data-target="entertainment">Entertainment</a>
+            <a href="#" class="nav-link" data-target="politics">Politics</a>
+            <a href="#" class="nav-link" data-target="sport">Sport</a>
+            <a href="#" class="nav-link" data-target="history">History</a>
+        </div>
+
+    </header>
+
+
+    <sections class="main-content">
+        <div class="container">
+
+            <section class="sections active" id="entertainment">
+            
+                <div class="fact__contents" id="entertainment-fact">
+                    <h3>Nigeria Entertainment Facts</h3>
+                    <div class="fact__area">
+                        <img  class="fact__img" src="img/lion-heart.jpg" alt="A movie poster for 'Lionheart' with an image of a woman and man standing outside a building" id="entertainment-img">
+                        <span class="fact__text" id="entertainment-text">
+                            "Nigeria's first ever entry for the Best International Feature Film category at the Academy Awards,
+                             'Lionheart', was disqualified in 2019 for featuring too much English dialogue.",.
+                        </span>
+                    </div>
+                    
+                    <div class="fact__button">
+                        <button class="button" id="more-entertainment">More Facts</button>
+                    </div>
+                </div>
+            </section>
+    
+            <section class="sections"  id="politics">
+    
+                <div class="fact__contents">
+                    <h3>Nigeria Politics Facts</h3>
+                    <div class="fact__area" id="politics-fact">
+                        <img  class="fact__img" src="img/flag-nigeria.jpg" alt="Flag of Nigeria" id="politics-img">
+                        <span class="fact__text" id="politics-text">
+                            Nigeria gained independence from British colonial rule on October 1, 1960.
+                        </span>
+                    </div>
+                    
+                    <div class="fact__button">
+                        <button class="button" id="more-politics">More Facts</button>
+                    </div>
+                </div>
+            </section>
+    
+            <section class="sections" id="sport">
+            
+                <div class="fact__contents">
+                    <h3>Nigeria Sports Fact</h3>
+                    <div class="fact__area" id="sport-fact">
+                        <img  class="fact__img" src="img/football-women.jpg" alt="Image of Nigeria's women's national football team posing for a photo" id="sport-img">
+                        <span class="fact__text" id="sport-text">
+                            Nigeria's women's national football team, the Super Falcons, has won the Africa Women Cup of Nations a record eleven times.
+                        </span>
+                    </div>
+                    
+                    <div class="fact__button">
+                        <button class="button" id="more-sport">More Facts</button>
+                    </div>
+                </div>
+            </section>
+    
+            <section class="sections" id="history">
+    
+                <div class="fact__contents">
+                    <h3>Nigeria History Facts</h3>
+                    <div class="fact__area" id="history-fact">
+                        <img  class="fact__img" src="img/empire.jpg" alt="Ruins of a stone building from a pre-colonial empire in Nigeria" id="history-img">
+                        <span class="fact__text" id="history-text">
+                            Nigeria was home to several pre-colonial empires, including the Kanem-Bornu Empire, the Oyo Empire, and the Benin Empire.
+                             Each of these empires had a rich cultural heritage and made significant contributions to African art, literature, and philosophy.
+                        </span>
+                    </div>
+                    
+                    <div class="fact__button">
+                        <button class="button" id="more-history">More Facts</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </sections>
+
+    <footer>
+        <p class="container">Built By Alao Zubair Lanre</p>
+    </footer>
+    <!-- Scripts -->
+    <script src="./js/app.js"></script>
+</body>
+</html>

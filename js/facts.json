@@ -1,0 +1,140 @@
+{
+    "entertainment": [
+      {
+        "fact": "Nigeria's film industry, Nollywood, is the second largest film industry in the world in terms of output, producing an average of 2,500 films per year.",
+        "image": "./img/nollywood.jpg",
+        "alt": "A scene from a Nollywood film with actors standing outside a colorful building"
+      },
+      {
+        "fact": "Nigeria has produced world-renowned musical artists such as Fela Kuti, King Sunny Ade, and Burna Boy.",
+        "image": "./img/burnaboy.jpg",
+        "alt": "A black-and-white photo of Fela Kuti playing a saxophone on stage"
+      },
+      {
+        "fact": "The Nigerian entertainment industry is estimated to be worth over $5 billion and employs over 1 million people.",
+        "image": "./img/nollywood3.jpg",
+        "alt": "A group of people on a film set with cameras and lighting equipment"
+      },
+      {
+        "fact": "The first feature-length film produced in Nigeria was 'Palaver', directed by Geoffrey Barkas and released in 1926.",
+        "image": "./img/palava.jpg",
+        "alt": "A poster for the film 'Palaver' with an image of a man and woman"
+      },
+      {
+        "fact": "Nigerian novelist Chinua Achebe's book 'Things Fall Apart' is widely regarded as a masterpiece of African literature and has been translated into over 50 languages.",
+        "image": "./img/china-achebe.jpg",
+        "alt": "A book cover for 'Things Fall Apart' with an image of a man holding a spear"
+      },
+      {
+        "fact": "Nigeria's first ever entry for the Best International Feature Film category at the Academy Awards, 'Lionheart', was disqualified in 2019 for featuring too much English dialogue.",
+        "image": "./img/lion-heart.jpg",
+        "alt": "A movie poster for 'Lionheart' with an image of a woman and man standing outside a building"
+      },
+      {
+        "fact": "Nigeria has hosted several major music festivals, including the annual Lagos Music Conference and the Afrobeat Festival.",
+        "image": "./img/afrobeat.jpg",
+        "alt": "A crowd of people at a music festival with a stage in the background"
+      },
+      {
+        "fact": "Nigerian actress Genevieve Nnaji's directorial debut, 'Lionheart', was the first Netflix original film from Nigeria.",
+        "image": "./img/lion-heart.jpg",
+        "alt": "A photo of Genevieve Nnaji standing in front of a microphone"
+      },
+      {
+        "fact": "Nigeria's entertainment industry is not limited to film and music; it also includes fashion, comedy, and visual arts.",
+        "image": "./img/nollywood.jpg",
+        "alt": "A fashion show runway with models walking and photographers taking pictures"
+      },
+      {
+        "fact": "Nollywood is not just popular in Nigeria; it is also widely watched in other African countries as well as in the African diaspora.",
+        "image": "./img/nigeria-entertainment.jpg",
+        "alt": "A scene from a Nollywood film with actors sitting in a living room"
+      }
+    ],
+    
+    "politics": [
+        {
+          "fact": "Nigeria gained independence from British colonial rule on October 1, 1960.",
+          "image": "./img/flag-nigeria.jpg",
+          "alt": "Flag of Nigeria"
+        },
+        {
+          "fact": "Nigeria has a federal presidential system of government with three branches: the executive, legislative, and judiciary.",
+          "image": "./img/govt-house.jpg",
+          "alt": "National Assembly Chamber in Nigeria"
+        },
+        {
+          "fact": "The current President of Nigeria is Muhammadu Buhari, who has been in office since 2015.",
+          "image": "./img/buhari.jpg",
+          "alt": "Portrait of Muhammadu Buhari"
+        },
+        {
+          "fact": "Nigeria is a member of the African Union, the United Nations, and the Commonwealth of Nations.",
+          "image": "./img/africa-union.jpg",
+          "alt": "Logo of the United Nations"
+        },
+        {
+          "fact": "Nigeria has a diverse population with over 250 ethnic groups, each with its own distinct language and culture.",
+          "image": "./img/nigeria-tribes.jpg",
+          "alt": "Map of Nigeria's ethnic groups"
+        }
+    ],
+
+    "sport": [
+        {
+        "fact": "Nigeria's national football team, the Super Eagles, has qualified for six FIFA World Cup tournaments and won the Africa Cup of Nations three times.",
+        "image": "./img/football-men.jpg",
+        "alt": "Nigeria's national football team"
+        },
+        {
+        "fact": "Nigeria's women's national football team, the Super Falcons, has won the Africa Women Cup of Nations a record eleven times.",
+        "image": "./img/football-women.jpg",
+        "alt": "Image of Nigeria's women's national football team posing for a photo"
+        },
+        {
+        "fact": "Nigeria's basketball team, the D'Tigers, is ranked number one in Africa and has qualified for the Olympic Games twice.",
+        "image": "./img/basketball-women.jpg",
+        "alt": "Image of Nigeria's basketball team playing in a match"
+        },
+        {
+        "fact": "Nigeria has produced several Olympic medalists, including Chioma Ajunwa, who won gold in the women's long jump at the 1996 Atlanta Olympics.",
+        "image": "./img/cinwa-ajunwa.jpg",
+        "alt": "Image of Nigeria's Olympic medalists standing on a podium"
+        },
+        {
+        "fact": "Nigeria's national cricket team, the Yellow Greens, made their debut in the T20 World Cup in 2021.",
+        "image": "./img/nigeria-cricket.jpg",
+        "alt": "Image of Nigeria's national cricket team playing in a match"
+        }
+    ], 
+
+    "history": [
+        {
+        "fact": "Nigeria was home to several pre-colonial empires, including the Kanem-Bornu Empire, the Oyo Empire, and the Benin Empire. Each of these empires had a rich cultural heritage and made significant contributions to African art, literature, and philosophy.",
+        "image": "./img/empire.jpg",
+        "alt": "Ruins of a stone building from a pre-colonial empire in Nigeria"
+        },
+        {
+        "fact": "The transatlantic slave trade had a significant impact on Nigeria, with millions of Africans taken from the country and sold into slavery in the Americas and Europe. This period also saw the rise of several anti-slavery movements in Nigeria and other parts of Africa.",
+        "image": "./img/slave-ships.jpg",
+        "alt": "A painting of a slave ship on the ocean with African captives being transported to the Americas"
+        },
+        {
+        "fact": "Nigeria was colonized by the British in the late 19th century and remained under British rule until gaining independence in 1960. This period saw significant changes in Nigeria's political, economic, and social systems, with many Nigerians actively resisting colonial rule.",
+        "image": "./img/colonial.jpg",
+        "alt": "A black and white photograph of British colonial officers meeting with Nigerian leaders"
+        },
+        {
+        "fact": "Nigeria has experienced several periods of political instability since gaining independence, including a civil war that lasted from 1967 to 1970. The country has also had several military coups and periods of military rule, which have often been marked by human rights abuses and corruption.",
+        "image": "./img/civil-war.jpg",
+        "alt": "A black and white photograph of Nigerian soldiers during the civil war"
+        },
+        {
+        "fact": "Nigeria has a rich cultural heritage that includes a variety of music, art, dance, and literature. Some of the country's most famous cultural icons include the writer Chinua Achebe, the musician Fela Kuti, and the visual artist Ben Enwonwu.",
+        "image": "./img/nigeria-custom.jpg",
+        "alt": "A colorful painting by a Nigerian artist depicting traditional Nigerian dress and customs"
+        }
+    ]
+}
+
+  
